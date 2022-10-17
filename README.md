@@ -1,6 +1,6 @@
 # Google User Interface Design by HTML & CSS
 
-##About Googl UI
+<h2> About Googl UI </h2>
 Google UI Website is a fully responsive famous website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <h2> Contat Info </h2>
