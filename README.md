@@ -3,7 +3,7 @@
 ##About Googl UI
 Google UI Website is a fully responsive famous website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-##Contat Info
+<h2> ontat Info <h2>
 - linkedin : https://www.linkedin.com/in/anassbraim/ <br>
 - Twitter : https://twitter.com/anassbraim
 - Facebook : https://www.facebook.com/anassbraim
